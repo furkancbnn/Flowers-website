@@ -1,0 +1,23 @@
+/* .div{
+    background-image: url(images1/body.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ */
+
+body{
+    background-image: url(images1/body.jpg);
+}
+
+.ozel{
+    width: 40%;
+    margin: auto;
+    margin-top: 125px;
+}
+
+.object-fit-cover{
+    height: 700px;
+    border-radius: 50%0%50%0%;
+}
